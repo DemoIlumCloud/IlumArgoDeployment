@@ -1,11 +1,11 @@
 ilum-jupyter:
-  enabled: true
+  enabled: false
 
 gitea:
-  enabled: true
+  enabled: false
 
 postgresql:
-  enabled: true
+  enabled: false
 
 postgresExtensions:
-  enabled: true
+  enabled: false
