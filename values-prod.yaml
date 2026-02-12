@@ -2,10 +2,10 @@ ilum-jupyter:
   enabled: true
 
 gitea:
-  enabled: false
+  enabled: true
 
 postgresql:
-  enabled: false
+  enabled: true
 
 postgresExtensions:
-  enabled: false
+  enabled: true
